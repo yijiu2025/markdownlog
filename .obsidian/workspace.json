@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f48bc543553f11b",
+        "id": "b30474900db3e54c",
         "type": "tabs",
         "children": [
           {
-            "id": "a21d17fb1cc5a625",
+            "id": "092e751ea50ee45a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "用户登录 的大纲"
             }
+          },
+          {
+            "id": "c9ef50d526700b10",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a21d17fb1cc5a625",
+  "active": "092e751ea50ee45a",
   "lastOpenFiles": [
-    "gofish前端/assets/用户登录/file-20251119234813397.png",
+    "未命名.base",
+    "未命名.canvas",
     "gofish前端/用户登录.md",
+    "gofish前端/assets/用户登录/file-20251119234813397.png",
     "gofish前端/assets/用户登录",
     "gofish前端/assets/用户登录1",
     "gofish前端/assets",
