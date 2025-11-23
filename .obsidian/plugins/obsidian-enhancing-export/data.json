@@ -1,9 +1,7 @@
 {
   "items": [
     {
-      "name": "Markdown",
-      "runCommand": false,
-      "openExportedFileLocation": true
+      "name": "Markdown"
     },
     {
       "name": "Markdown (Hugo)"
@@ -18,8 +16,7 @@
       "name": "Typst"
     },
     {
-      "name": "PDF",
-      "openExportedFileLocation": true
+      "name": "PDF"
     },
     {
       "name": "Word (.docx)"
@@ -58,9 +55,5 @@
   "defaultExportDirectoryMode": "Same",
   "openExportedFile": true,
   "env": {},
-  "showExportProgressBar": true,
-  "pandocPath": {
-    "win32": "D:\\Program Files (x86)\\obsidian\\pandoc.exe"
-  },
-  "lastEditName": "PDF"
+  "showExportProgressBar": true
 }
