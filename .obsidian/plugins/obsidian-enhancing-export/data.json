@@ -1,7 +1,9 @@
 {
   "items": [
     {
-      "name": "Markdown"
+      "name": "Markdown",
+      "openExportedFileLocation": true,
+      "runCommand": false
     },
     {
       "name": "Markdown (Hugo)"
@@ -55,8 +57,12 @@
   "pandocPath": {
     "win32": "D:\\Program Files (x86)\\obsidian\\pandoc.exe"
   },
-  "defaultExportDirectoryMode": "Auto",
-  "openExportedFile": true,
+  "defaultExportDirectoryMode": "Custom",
+  "openExportedFile": false,
   "env": {},
-  "showExportProgressBar": true
+  "showExportProgressBar": true,
+  "openExportedFileLocation": false,
+  "customDefaultExportDirectory": {
+    "win32": "C:\\Users\\yijiu\\Desktop"
+  }
 }
