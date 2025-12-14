@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "nuts使用教程"
             }
-          },
-          {
-            "id": "dfbccc14af2010c2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfbccc14af2010c2",
+  "active": "092e751ea50ee45a",
   "lastOpenFiles": [
     "使用教程/markdown语法.md",
     "使用教程/nuts使用教程.md",
