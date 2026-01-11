@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eae72f267cd4da8d",
+  "active": "3455714a3b0c223b",
   "lastOpenFiles": [
     "使用教程/markdown语法.md",
     "autojs/拦截返回键.md",
