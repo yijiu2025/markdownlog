@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autojs/拦截返回键.md",
+                "file": "使用教程/markdown语法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拦截返回键"
+              "title": "markdown语法"
             }
           }
         ]
@@ -197,9 +197,9 @@
   },
   "active": "3455714a3b0c223b",
   "lastOpenFiles": [
-    "使用教程/markdown语法.md",
-    "autojs/拦截返回键.md",
     "使用教程/nuts使用教程.md",
+    "autojs/拦截返回键.md",
+    "使用教程/markdown语法.md",
     "gofish前端/assets/用户登录/file-20251123220154524.png",
     "autojs",
     "后端开发/用户信息/user.js.md",
