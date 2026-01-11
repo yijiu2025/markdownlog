@@ -11,10 +11,14 @@
             "id": "3455714a3b0c223b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "autojs/拦截返回键.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "拦截返回键"
             }
           }
         ]
@@ -167,17 +171,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3455714a3b0c223b",
+  "active": "eae72f267cd4da8d",
   "lastOpenFiles": [
-    "使用教程/nuts使用教程.md",
     "使用教程/markdown语法.md",
+    "autojs/拦截返回键.md",
+    "使用教程/nuts使用教程.md",
+    "gofish前端/assets/用户登录/file-20251123220154524.png",
+    "autojs",
     "后端开发/用户信息/user.js.md",
     "使用教程",
     "gofish前端/用户登录.md",
@@ -207,9 +213,7 @@
     "gofish前端/未命名.md",
     "未命名.base",
     "未命名.canvas",
-    "gofish前端/assets/用户登录/file-20251123220154524.png",
     "gofish前端/assets/用户登录1",
-    "gofish前端/assets",
     "gofish开发.md"
   ]
 }
