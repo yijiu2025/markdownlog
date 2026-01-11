@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3455714a3b0c223b",
+  "active": "32ed28de0cba1e07",
   "lastOpenFiles": [
     "使用教程/markdown语法.md",
     "使用教程/nuts使用教程.md",
