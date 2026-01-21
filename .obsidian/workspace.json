@@ -185,18 +185,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a1039c9e7d39ca1",
+  "active": "eae72f267cd4da8d",
   "lastOpenFiles": [
+    "有机合成",
     "autojs/拦截返回键.md",
     "autojs自动化开发/开发日志/2016.1.18.md",
     "autojs自动化开发/开发日志",
