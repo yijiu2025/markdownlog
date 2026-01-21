@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autojs自动化开发/开发日志/2016.1.18.md",
+                "file": "有机合成/硝基还原.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2016.1.18"
+              "title": "硝基还原"
             }
           }
         ]
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eae72f267cd4da8d",
+  "active": "9a1039c9e7d39ca1",
   "lastOpenFiles": [
+    "autojs自动化开发/开发日志/2016.1.18.md",
+    "有机合成/硝基还原.md",
     "有机合成",
     "autojs/拦截返回键.md",
-    "autojs自动化开发/开发日志/2016.1.18.md",
     "autojs自动化开发/开发日志",
     "autojs自动化开发/开发日志.md",
     "autojs自动化开发",
@@ -216,7 +216,6 @@
     "后端开发/用户信息",
     "后端开发",
     "gofish前端/未命名",
-    "gofish前端/assets/未命名",
     "gofish前端/未命名.md",
     "gofish开发.md"
   ]
