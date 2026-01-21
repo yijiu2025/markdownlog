@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eae72f267cd4da8d",
+  "active": "da5d8896a32df4a0",
   "lastOpenFiles": [
     "未命名 1.base",
     "有机合成/硝基还原.md",
