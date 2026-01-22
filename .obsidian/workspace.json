@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "有机合成/硝基还原.md",
+                "file": "有机合成/Boc保护.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "硝基还原"
+              "title": "Boc保护"
             }
           }
         ]
@@ -180,12 +180,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -197,8 +196,9 @@
   },
   "active": "da5d8896a32df4a0",
   "lastOpenFiles": [
-    "未命名 1.base",
     "有机合成/硝基还原.md",
+    "有机合成/Boc保护.md",
+    "未命名 1.base",
     "未命名.base",
     "autojs自动化开发/开发日志/2016.1.18.md",
     "有机合成",
