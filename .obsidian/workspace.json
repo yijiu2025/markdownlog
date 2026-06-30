@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "硝基还原"
             }
+          },
+          {
+            "id": "4926b0c7e4030bdf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da5d8896a32df4a0",
+  "active": "4926b0c7e4030bdf",
   "lastOpenFiles": [
     "未命名 1.base",
     "有机合成/硝基还原.md",
