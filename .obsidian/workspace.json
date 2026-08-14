@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "有机合成/硝基还原.md",
+                "file": "有机合成/格式试剂.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "硝基还原"
+              "title": "格式试剂"
             }
           }
         ]
@@ -197,6 +197,7 @@
   "active": "da5d8896a32df4a0",
   "lastOpenFiles": [
     "有机合成/Boc保护.md",
+    "有机合成/格式试剂.md",
     "有机合成/硝基还原.md",
     "未命名 1.base",
     "未命名.base",
